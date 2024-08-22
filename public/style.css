@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white
+}
+
+.Schefter {
+    border-radius: 50%;
+    width: 10%;
+    height: 10%;
+    position: relative;
+    top: 30px;
+}
+
+.opening {
+    position: relative;
+    left: 10%;
+    top: -30px;
+    margin: 1%;
+}
+
+.body{
+    font-size: larger;
+}
